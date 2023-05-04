@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "store_var"
 version = "v1"
 authors = [
-  { name="Vladyslav Zahrevskyi", email="zahrevsky@gmail.com" },
+  { name="Vlad Zahrevsky", email="zahrevsky@gmail.com" },
 ]
 description = "List wrapper, that pickles it on every update"
 readme = "README.md"
@@ -16,3 +16,6 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
+
+[project.urls]
+"Github" = "https://github.com/zahrevsky/store_var"

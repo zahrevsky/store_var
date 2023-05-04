@@ -1,5 +1,7 @@
 # store_var
 
+![Python](https://img.shields.io/badge/python-3.6-blue.svg)
+
 Wrapper, that stores a list into a file on every list update. A band-aid 
 solution for a small project, when database is an overkill.
 
